@@ -18,7 +18,7 @@
 
 | Item | Link |
 |---|---|
-| Repositório | https://github.com/izacmendes/Tech-Challenge-2.git |
+| Repositório | https://github.com/izacmendes/Tech-Challenge-2-Qualidade-de-Vinhos.git |
 | Vídeo executivo (<= 5 min) | https://drive.google.com/file/d/1WaAwaF46T9etUlQgIO9Ks6kkKFQiD4HA/view?usp=sharing |
 | Apresentação | https://drive.google.com/file/d/1w-uMfAHdgdHIWz3YADIgztKj4kE-P7-L/view?usp=sharing |
 
