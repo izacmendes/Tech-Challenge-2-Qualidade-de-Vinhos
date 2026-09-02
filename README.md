@@ -1,1 +1,0 @@
-# Tech-Challenge-2-Qualidade-de-Vinhos
